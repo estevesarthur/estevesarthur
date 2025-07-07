@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Java Backend Developer</strong><br>
-  Spring Boot | Microservices | RESTful APIs | Docker | Jenkins | Agile
+  Spring Boot | Microservices | API RESTful | Docker | Jenkins | Agile
 </p>
 
 <p align="center">
@@ -15,24 +15,25 @@
   <a href="mailto:esteves.arthur@outlook.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-outlook-blue?logo=microsoft-outlook&style=flat" />
   </a>
-  <a href="https://github.com/estevesarthur" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?logo=github&style=flat&logoColor=white" />
-  </a>
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-Sou desenvolvedor backend Java com foco em **Spring Boot** e APIs **RESTful**. Trabalho com microserviços, CI/CD com **Jenkins**, conteinerização com **Docker**, e automação de testes com **JUnit** e **RobotFramework**.
+**Java** Backend Developer com foco em **Spring Boot** e APIs RESTful, com experiência em JPA, testes unitários com **JUnit**, versionamento com **GitHub**, e build tools como **Maven** e **Gradle**. Atuo no desenvolvimento de microserviços e sou entusiasta de integração contínua com Jenkins, containers Docker e metodologias ágeis como Scrum e Kaizen.
 
-Atualmente, além de atuar como **Professor Especialista** em Java na **Tokio School**, também colaboro com projetos de **Inteligência Artificial aplicada à manutenção preditiva** no **Instituto Politécnico de Castelo Branco**.
+Estou a finalizar o Mestrado em Engenharia Informática pelo Instituto Politécnico de Castelo Branco.
+
+Paralelamente, atuo como Professor Especialista em **Java** em modelo E-Learning, o que reforça minha comunicação técnica e domínio da linguagem.
+
+Tenho histórico de automação de processos em grandes instituições financeiras (Itaú, Bradesco), onde contribuí para um ganho de até 30% em eficiência operacional. Entusiasta de MQTT e RobotFramework, valorizo **boas práticas**, inovação contínua e o desenvolvimento de **soluções escaláveis**.
 
 ---
 
 ### 💼 Experiência Profissional
 
-- **Tokio School Portugal** – Professor Especialista (2025-presente)
+- **Tokio School Portugal** – Professor Especialista em Java (2025-presente)
 - **Instituto Politécnico de Castelo Branco** – Investigador (2024-2025)
 - **Banco Itaú** – Estagiário T.I. – foco em automação de processos (2022-2023)
 - **upLexis** – Estagiário de Data Science (2021-2022)
@@ -63,22 +64,15 @@ Atualmente, além de atuar como **Professor Especialista** em Java na **Tokio Sc
 
 ### 📊 Meus repositórios em destaque
 
-Aqui você pode destacar alguns projetos específicos:
-
+Aqui você pode destacar alguns projetos específicos: [ EM CONSTRUÇÃO ]
+<!--
 - 🔧 [**automacao-fundos-itau**](https://github.com/estevesarthur/automacao-fundos-itau): Automação de processos operacionais em instituição financeira (Validação de taxas, PCO etc.).
 - 🤖 [**vibration-ai-detector**](https://github.com/estevesarthur/vibration-ai-detector): Detecção de anomalias com IA em dados de vibração.
 - 📘 [**curso-java-tokio**](https://github.com/estevesarthur/curso-java-tokio): Material didático e exercícios práticos utilizados nas aulas.
-
+-->
 ---
 
-### 📫 Entre em contato
-
-📍 Castelo Branco, Portugal  
-📞 WhatsApp: [+351 938 129 195](https://wa.me/351938129195)  
-📧 Email: [esteves.arthur@outlook.com](mailto:esteves.arthur@outlook.com)
-
----
 
 <p align="center">
-  <em>"Valorizo boas práticas, inovação contínua e o desenvolvimento de soluções escaláveis."</em>
+  <em>"Muito prazer, obrigado pela visita. Estou a disposição para dúvidas e conversas."</em>
 </p>
