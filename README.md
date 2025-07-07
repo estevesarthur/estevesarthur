@@ -64,6 +64,16 @@ Tenho histórico de automação de processos em grandes instituições financeir
 
 ### 📊 Meus repositórios em destaque
 
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=estevesarthur&show_icons=true&count_private=true&theme=transparent">
+       <img height="150" src="https://github-readme-stats.vercel.app/api?username=estevesarthur&show_icons=true&count_private=true&theme=transparent"/>
+   </a>
+   <a href="https://github.com/estevesarthur">
+       <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevesarthur&layout=compact&theme=transparent"/>
+   </a>
+</p>
+
+
 Aqui você pode destacar alguns projetos específicos: [ EM CONSTRUÇÃO ]
 <!--
 - 🔧 [**automacao-fundos-itau**](https://github.com/estevesarthur/automacao-fundos-itau): Automação de processos operacionais em instituição financeira (Validação de taxas, PCO etc.).
@@ -71,6 +81,7 @@ Aqui você pode destacar alguns projetos específicos: [ EM CONSTRUÇÃO ]
 - 📘 [**curso-java-tokio**](https://github.com/estevesarthur/curso-java-tokio): Material didático e exercícios práticos utilizados nas aulas.
 -->
 ---
+
 
 
 <p align="center">
