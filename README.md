@@ -64,6 +64,7 @@ Tenho histórico de automação de processos em grandes instituições financeir
 
 ### 📊 Meus repositórios em destaque
 
+<!--
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=estevesarthur&show_icons=true&count_private=true&theme=transparent">
        <img height="150" src="https://github-readme-stats.vercel.app/api?username=estevesarthur&show_icons=true&count_private=true&theme=transparent"/>
@@ -72,7 +73,7 @@ Tenho histórico de automação de processos em grandes instituições financeir
        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevesarthur&layout=compact&theme=transparent"/>
    </a>
 </p>
-
+-->
 
 Aqui você pode destacar alguns projetos específicos: [ EM CONSTRUÇÃO ]
 <!--
